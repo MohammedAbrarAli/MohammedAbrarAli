@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedabrarali&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedabrarali" /> </p>
 
-- 🌱 I’m currently learning **front end development and learning 
+- 🌱 I’m currently learning **front end development and  
 - data analytics**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mohammed-abrar-ali-a83740252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/mohammed-abrar-ali-a83740252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
